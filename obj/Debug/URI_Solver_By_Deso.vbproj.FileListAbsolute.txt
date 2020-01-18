@@ -1,0 +1,11 @@
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\bin\Debug\URI_Solver_By_Deso.exe.config
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\bin\Debug\URI_Solver_By_Deso.exe
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\bin\Debug\URI_Solver_By_Deso.pdb
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\bin\Debug\URI_Solver_By_Deso.xml
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.vbprojResolveAssemblyReference.cache
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.Form1.resources
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.Resources.resources
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.vbproj.GenerateResource.Cache
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.exe
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.xml
+C:\Users\BestBy\Desktop\projects\URI_Solver_By_Deso\URI_Solver_By_Deso\obj\Debug\URI_Solver_By_Deso.pdb
